@@ -1,4 +1,6 @@
 {
   "some": "arbitrary",
-  "lines": ["in", "a file"]
+  "lines": ["in", "a file"],
+
+  "file modified": "to add commits"
 }
